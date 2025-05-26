@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Web Development",
+        "description": "Learn front-end and back-end development with HTML, CSS, JavaScript, and Node.js.",
+        "price": 1200,
+        "image": "webdev.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Data Science Fundamentals",
+        "description": "Introduction to Python, data analysis, and machine learning principles.",
+        "price": 1500,
+        "image": "datascience.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cybersecurity Essentials",
+        "description": "Fundamental security concepts, network security, and ethical hacking techniques.",
+        "price": 1300,
+        "image": "cybersecurity.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cloud Computing with AWS",
+        "description": "Deploy and manage applications on Amazon Web Services platform.",
+        "price": 1600,
+        "image": "awscloud.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mobile App Development",
+        "description": "Create cross-platform mobile apps using React Native and Flutter.",
+        "price": 1400,
+        "image": "mobileapp.jpg"
+    }
+]

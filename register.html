@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - YorkIT Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="page-enter">
+    <header class="app-header">
+        <div class="container">
+            <h1 class="app-title">YorkIT Academy</h1>
+            <nav class="main-nav">
+                <a href="browse.html" class="nav-link">Browse Courses & Kits</a>
+                <a href="home.html" class="nav-link">Home</a>
+                <a href="cart.html" class="nav-link">Shopping Cart</a>
+                <a href="confirm.html" class="nav-link">Checkout</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <h2>Register</h2>
+        <form id="registerForm">
+            <input type="text" id="regUsername" placeholder="Username" required>
+            <input type="password" id="regPassword" placeholder="Password" required>
+            <input type="password" id="regConfirmPassword" placeholder="Confirm Password" required>
+            <input type="email" id="regEmail" placeholder="Email" required>
+            <input type="tel" id="regPhone" placeholder="Phone Number (e.g. 123456789)" required>
+            <button type="submit">Register</button>
+        </form>
+    </div>
+
+    <footer class="app-footer">
+        <p>Created by York</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

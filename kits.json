@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "HTML & CSS Starter Kit",
+        "description": "Basic starter templates and exercises for web design beginners.",
+        "price": 99.99,
+        "image": "htmlcsskit.jpg"
+    },
+    {
+        "id": 2,
+        "name": "JavaScript Projects Bundle",
+        "description": "A collection of real-world JS projects including calculators and to-do lists.",
+        "price": 149.99,
+        "image": "jsbundle.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Python for Data Analysis",
+        "description": "Complete guide with datasets and Jupyter notebooks for Python learners.",
+        "price": 199.99,
+        "image": "pythondata.jpg"
+    },
+    {
+        "id": 4,
+        "name": "AWS Cloud Architecture Guide",
+        "description": "In-depth architecture patterns and deployment guides for AWS cloud engineers.",
+        "price": 249.99,
+        "image": "awsarchitecture.jpg"
+    },
+    {
+        "id": 5,
+        "name": "React Developer Toolkit",
+        "description": "Starter templates, component libraries, and best practices for React developers.",
+        "price": 199.99,
+        "image": "reacttoolkit.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Node.js API Development",
+        "description": "Build RESTful APIs using Express.js and MongoDB integration examples.",
+        "price": 179.99,
+        "image": "nodeapi.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ethical Hacking Lab Pack",
+        "description": "Virtual labs and tools for practicing penetration testing and vulnerability assessment.",
+        "price": 299.99,
+        "image": "ethicalhacking.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Flutter Mobile App Templates",
+        "description": "Pre-built app UIs and code structure for Android and iOS development.",
+        "price": 129.99,
+        "image": "flutterapps.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Linux Command Line Mastery",
+        "description": "Comprehensive tutorials and practice scripts for Linux system administrators.",
+        "price": 89.99,
+        "image": "linuxcli.jpg"
+    },
+    {
+        "id": 10,
+        "name": "SQL Database Design Courseware",
+        "description": "Exercises and case studies for designing relational databases with MySQL and PostgreSQL.",
+        "price": 139.99,
+        "image": "sqlcourse.jpg"
+    }
+]
