@@ -712,3 +712,20 @@ body.page-enter-active {
         opacity: 0;
     }
 }
+
+/* ============ Header Logo Styles ============ */
+
+.header-logo {
+    display: inline-block;
+    margin-right: 20px; /* Space between logo and title */
+}
+
+.logo-link {
+    text-decoration: none;
+}
+
+.logo {
+    max-width: 100px; /* Adjust size as needed */
+    height: auto;
+    vertical-align: middle;
+}
