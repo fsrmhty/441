@@ -144,6 +144,7 @@ function displayAllKits712() {
         productElement.innerHTML = `
             <img src="images/${kit.image}" alt="${kit.name}">
             <h3>${kit.name}</h3>
+            <h3>${kit.id}</h3>
             <p>${kit.description}</p>
             <p class="price">$${kit.price.toFixed(2)}</p>
             <button class="add-to-cart" data-id="${kit.id}">Add to Cart</button>
@@ -572,6 +573,7 @@ function loadAndDisplayProducts712() {
                     courseCard.innerHTML = `
                         <img src="images/${course.image}" alt="${course.name}">
                         <h3>${course.name}</h3>
+                        <h3>${course.id}</h3>
                         <p>${course.description}</p>
                         <p class="price">$${course.price.toFixed(2)}</p>
                     `;
@@ -593,6 +595,7 @@ function loadAndDisplayProducts712() {
                     kitCard.innerHTML = `
                         <img src="images/${kit.image}" alt="${kit.name}">
                         <h3>${kit.name}</h3>
+                        <h3>${kit.id}</h3>
                         <p>${kit.description}</p>
                         <p class="price">$${kit.price.toFixed(2)}</p>
                     `;
